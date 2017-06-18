@@ -1,8 +1,7 @@
 /*
- * RFID.cpp - Library to use ARDUINO RFID MODULE KIT 13.56 MHZ WITH TAGS SPI W AND R BY COOQROBOT.
- * Based on code Dr.Leong   ( WWW.B2CQSHOP.COM )
- * Created by Miguel Balboa, Jan, 2012. 
- * Released into the public domain.
+ * RFID.cpp - Library to use ARDUINO RFID MODULE KIT 13.56 MHZ
+ * Dev by Vo Van Huan.
+ * Document: https://github.com/miguelbalboa/rfid
  */
 
 /******************************************************************************
